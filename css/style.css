@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(255, 255, 255);
+    ba
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: ;
+    color: ;
+}
+.logo{
+    width: 150px;
+}
+
+nav img{
+    width: 150px;
+
+}
+a {
+    text-decoration: none;
+}
+div{
+    background-color: rgb(233, 233, 233);
+    background-color: rgb(102, 71, 131);
+}
+.tarjeta{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    margin: 20px;
+    width: 300px;
+    border-radius: 20px;
+    overflow: hidden;
+
+    box-shadow: ;
+    font-family: 0px 5px 10px #000000;
+}
